@@ -5,13 +5,13 @@ import javax.swing.JOptionPane;
 
 
 public class ConnectionClass {
-    String user = "benedictAdmin";
-    String pass = "Mutisya1996!"; 
+    String user = "change accordingly";
+    String pass = "change accordingly"; 
     Connection conn;
     //String dbUrl = "jdbc:mysql://ec2-3-220-53-255.compute-1.amazonaws.com:3306/testingdb";
     String dbUrl = "jdbc:mysql://localhost:3306/testingdb";
-    String emailuser = "benemutua@gmail.com";
-    String emailpass = "Benemutua1996!";
+    String emailuser = "change accordingly";
+    String emailpass = "change accordingly";
     
   
 public boolean getConnection(){       
